@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sharafat&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - 💻 Backend Engineer (PHP / Laravel)
 - 🏗️ Architecting scalable systems
-- 🚀 Building **EximusEdu** — a modern education management SaaS platform
+- 🚀 Building **[EximusEdu](https://www.eximusedu.com)** — a modern education management SaaS platform
 - ⚡ Focused on automation, efficiency, and leverage
 
 ---
@@ -37,13 +37,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=sharafat" />
 
 ---
 
@@ -55,5 +50,5 @@
 
 ## 📫 Connect
 
-- 🌐 SaaS: EximusEdu
+- 🌐 SaaS: [EximusEdu](https://www.eximusedu.com)
 - 💼 Focus: Backend Systems & SaaS Products
